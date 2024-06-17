@@ -1,5 +1,5 @@
 --- 
-  layout: post
+  layout: home
   title: this is my 6th day in ryaz.io
   category: 6th day in ryaz.io
 ---
